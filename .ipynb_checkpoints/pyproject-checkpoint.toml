@@ -1,0 +1,10 @@
+[project]
+name = "pytorch-1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.6.5",
+    "scikit-learn>=1.9.1",
+]
